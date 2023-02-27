@@ -1,0 +1,14 @@
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\bin\Debug\net7.0\PetShelter.DataAccessLayer.deps.json
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\bin\Debug\net7.0\PetShelter.DataAccessLayer.runtimeconfig.json
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\bin\Debug\net7.0\PetShelter.DataAccessLayer.dll
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\bin\Debug\net7.0\PetShelter.DataAccessLayer.pdb
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\PetShelter.DataAccessLayer.csproj.AssemblyReference.cache
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\PetShelter.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\PetShelter.DataAccessLayer.AssemblyInfoInputs.cache
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\PetShelter.DataAccessLayer.AssemblyInfo.cs
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\PetShelter.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\PetShelter.DataAccessLayer.dll
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\refint\PetShelter.DataAccessLayer.dll
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\PetShelter.DataAccessLayer.pdb
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\PetShelter.DataAccessLayer.genruntimeconfig.cache
+D:\CEGEKA .NET\CURS 2\02. SQL & ORM\PetShelter\PetShelter.DataAccessLayer\obj\Debug\net7.0\ref\PetShelter.DataAccessLayer.dll
